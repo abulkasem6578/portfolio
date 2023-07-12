@@ -78,8 +78,8 @@ section {
 }
 
 .home-img img {
-    width: 25vw;
-    margin-left: 50px;
+    width: 35vw;
+    margin-left: 100px;
     border: 1px solid none;
     border-radius: 500px;
 }
@@ -154,8 +154,8 @@ span {
 }
 
 .about-img img {
-    width: 25vw;
-    margin-right: 50px;
+    width: 35vw;
+    margin-right: 100px;
     border: 1px solid none;
     border-radius: 500px;
 }
